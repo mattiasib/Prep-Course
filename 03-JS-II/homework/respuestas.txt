@@ -1,0 +1,7 @@
+For: Es un bucle; con el cual podemos repetir un codigo constantemente cuantas veces queramos.
+
+&&  : Es un operador logico cuya definicion es"y" en español cuya operacion se define con la tabla de la verdad la cual nos devolvera un valor como true o false
+
+|| : Es un operador logico cuya definicion en español es "o" cuya operacion se define con la tabla de la verdad la cual nos devolvera un valor como true o false
+
+! : Es un operador logico cuya definicion es "no" cuya operacion se define con la tabla de la verdad la cual nos devolvera un valor como true o false
