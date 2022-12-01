@@ -1,0 +1,3 @@
+ARRAYS:
+los arrays son parecidos a una variable ya que en ellos podemos guardar informacion pero en este caso podemos agrupar tanto strings como un valor booleano incluso funciones
+para que esto se guarde en el array solo debemos escribir al igual que una variable a dicerencia de llevar seguido de el igual corchete de apertura y cierre 
